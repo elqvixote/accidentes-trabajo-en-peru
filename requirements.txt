@@ -1,0 +1,12 @@
+zipfile
+pathlib
+datetime
+numpy
+pandas
+altair
+requests
+BeautifulSoup
+tqdm
+geopandas
+mapclassify
+matplotlib
